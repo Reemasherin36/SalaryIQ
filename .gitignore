@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+venv_backup/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets
+data/
+*.csv
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
