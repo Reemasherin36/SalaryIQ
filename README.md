@@ -157,11 +157,7 @@ Open http://localhost:8501 in your browser.
 
 **Auto-selects best R² model** → saves to `models/salary_model.pkl`
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots here after running the app)*
 
 ---
 
@@ -171,4 +167,4 @@ MIT License — free for personal and educational use.
 
 ---
 
-*Built with ❤️ using Streamlit, Scikit-learn, and real LinkedIn job data.*
+*Built with using Streamlit, Scikit-learn, and real LinkedIn job data.*
